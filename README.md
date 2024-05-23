@@ -2,26 +2,20 @@
 **PROBLEM STATEMENT:**
 Our company is committed to improving employee retention and performance. However, recent trends indicate challenges in maintaining high employee satisfaction and managing turnover. To address these issues, we will analyze our HR dataset to identify key factors affecting employee satisfaction, performance, and retention.
 
-1.Is there any relationship between who a person works for and their performance score?
-
-2.What is the overall diversity profile of the organization?
-
-3.What are our best recruiting sources if we want to ensure a diverse organization?
-
-4.Can we predict who is going to terminate and who isn't? What level of accuracy can we achieve on this?
-
-5.Are there areas of the company where pay is not equitable?
-
 **DATASET:**
+
 https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
 
 **PROGRAMMING LANGUAGE:**
+
 PYTHON
 
 **TOOLS:**
+
 Power BI, MS-Excel
 
 **Implementation:**
+
 Libraries: Matplotlib, pandas, seaborn, and NumPy
 
 **Few glimpses of EDA and Power BI Dashboard:**
@@ -34,3 +28,16 @@ Libraries: Matplotlib, pandas, seaborn, and NumPy
 
 
 
+3] The 3 most used platforms for recruitment are Indeed, LinkedIn and Google search.
+
+![image](https://github.com/Vaishnavi-Gadhe/HR-Data-Analysis/assets/151201164/2d727757-6ead-47e0-944d-facc0ae398f8)
+
+
+4] The plot shows Salary Vs Department relation. The highest Salary employees belongs from IT Department
+
+![image](https://github.com/Vaishnavi-Gadhe/HR-Data-Analysis/assets/151201164/7986de85-6da8-4ba8-bfd8-df74982c2b98)
+
+
+5] Power BI Dashboard:
+
+![image](https://github.com/Vaishnavi-Gadhe/HR-Data-Analysis/assets/151201164/6961c7a4-6984-4941-be16-aedaccfbf98e)
