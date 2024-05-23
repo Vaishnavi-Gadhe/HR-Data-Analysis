@@ -37,7 +37,15 @@ Libraries: Matplotlib, pandas, seaborn, and NumPy
 
 ![image](https://github.com/Vaishnavi-Gadhe/HR-Data-Analysis/assets/151201164/7986de85-6da8-4ba8-bfd8-df74982c2b98)
 
+5] There are 207 active employees
 
-5] Power BI Dashboard:
+![image](https://github.com/Vaishnavi-Gadhe/HR-Data-Analysis/assets/151201164/68d06d0d-e3bb-4ff3-bca5-454e826214da)
+
+
+6] Power BI Dashboard:
 
 ![image](https://github.com/Vaishnavi-Gadhe/HR-Data-Analysis/assets/151201164/6961c7a4-6984-4941-be16-aedaccfbf98e)
+
+
+
+
