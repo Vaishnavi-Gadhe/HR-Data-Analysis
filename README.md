@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
 
 **PROGRAMMING LANGUAGE:**
 
-PYTHON
+Python
 
 **TOOLS:**
 
