@@ -1,6 +1,7 @@
 # HR-Data-Analysis
 **PROBLEM STATEMENT:**
 Our company is committed to improving employee retention and performance. However, recent trends indicate challenges in maintaining high employee satisfaction and managing turnover. To address these issues, we will analyze our HR dataset to identify key factors affecting employee satisfaction, performance, and retention.
+
 1.Is there any relationship between who a person works for and their performance score?
 2.What is the overall diversity profile of the organization?
 3.What are our best recruiting sources if we want to ensure a diverse organization?
